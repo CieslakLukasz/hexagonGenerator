@@ -10,10 +10,10 @@ import HexagonBox from "./HexagonBox";
 const initialState = {
   width: 200,
   color: "#f1f500",
-  border: true,
+  border: false,
   border_color: "#000000",
   border_width: 4,
-  shadow: true,
+  shadow: false,
   shadow_right: 15,
   shadow_down: 15,
   shadow_blur: 5,
